@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/metinahmeterkeles/Product-Preview-Card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/metinahmeterkeles/Product-Preview-Card](https://github.com/metinahmeterkeles/Product-Preview-Card)
+- Live Site URL: [https://product-preview-card-three-jade.vercel.app/](https://product-preview-card-three-jade.vercel.app/)
 
 ## My process
 
@@ -69,9 +69,9 @@ In this challenge, I learned how to add images according to desktop and mobile s
 
 ### Useful resources
 
-- [Example resource 1](https://web.dev/learn/design/picture-element?hl=tr) - This site showed me how to change images according to screen size.
+- [https://web.dev/learn/design/picture-element?hl=tr](https://web.dev/learn/design/picture-element?hl=tr) - This site showed me how to change images according to screen size.
 
 ## Author
 
-- Website - [Add your name here](https://github.com/metinahmeterkeles)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/metinahmeterkeles)
+- Website - [https://github.com/metinahmeterkeles](https://github.com/metinahmeterkeles)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/metinahmeterkeles](https://www.frontendmentor.io/profile/metinahmeterkeles)
