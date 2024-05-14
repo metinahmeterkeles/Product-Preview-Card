@@ -38,7 +38,7 @@ body {
 
 .container {
   max-width: 343px;
-  max-height: 667px;
+  /* max-height: 667px; */
   height: 100%;
   background-color: var(--color-white);
   display: flex;
@@ -129,7 +129,7 @@ button:focus {
 }
 
 button > span {
-  max-width: 85px;
+  max-width: max-content;
   font-family: 'Montserrat', serif;
   font-size: 1.4rem;
   font-weight: bold;
